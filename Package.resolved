@@ -1,0 +1,15 @@
+{
+  "originHash" : "74b39a6158c28e3485f471b4c25a82e7adf0f75af0d750c9f5795f1311df1412",
+  "pins" : [
+    {
+      "identity" : "vivid",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/k-ymmt/Vivid.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "356b6964df773f01453cec7408a801d76ac1c966"
+      }
+    }
+  ],
+  "version" : 3
+}
